@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @dino
+- 🌱 I’m currently learning C#
