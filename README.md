@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @dino
+- 👋 Hi, I’m dino
 - 🌱 I’m currently learning C#
